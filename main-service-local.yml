@@ -1,0 +1,4 @@
+# main-service-local.yml
+spring:
+    profiles: local
+    message: Hello Spring MainService Local Server!!!!!
